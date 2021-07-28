@@ -1,0 +1,34 @@
+[
+    {
+        "url": "https://www.calixta.com/login",
+        "usuario": "sms_reportes@gabssa.mx",
+        "contrasena": "MaMo0824",
+        "alias": "calixta",
+        "id_usuario":"#email",
+        "id_password": "#password",
+        "id_enter": "#btn-entrar",
+        "navegaPanel":"https://www.calixta.com/panel"
+    },
+    {
+        "url": "http://192.168.130.215:8082/inconcert/apps/login/form?app=dashboard&previousUrl=%2Finconcert%2Fapps%2Fdashboard%2F",
+        "usuario": "37792@GABSSA",
+        "contrasena": "1234",
+        "alias": "inconsert",
+        "id_usuario":"input[name='username']",
+        "id_password": "input[name='password']",
+        "id_enter": "#submitButton",
+        "navegaPanel":""
+    },
+    {
+        "url": "https://i6.gabssa.app/inconcert/apps/agent/login/",
+        "usuario": "1202@rece",
+        "contrasena": "1234",
+        "alias": "inconserti6",
+        "id_usuario":"#username",
+        "id_password": "#password",
+        "id_enter": "#submitButton",
+        "navegaPanel":""
+    }    
+]
+
+
